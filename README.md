@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 NFT Collection — ERC-721 Smart Contract
 
 A fully tested, secure, Dockerized Non-Fungible Token (NFT) smart contract implementation following the ERC-721 standard. Designed to demonstrate correct token ownership, transfers, approvals, metadata handling, and security best practices — all validated through an automated test suite in an isolated Docker environment.
@@ -288,3 +289,14 @@ Full test coverage
 Reproducible Dockerized environment
 
 It demonstrates mastery of smart contract development, testing strategy, and proper tooling setup for real-world blockchain engineering.
+=======
+# NFT Contract (ERC-721) — Project Scaffold
+
+## What is here
+This repository contains a scaffold for building an ERC-721 NFT contract, tests, and a Dockerfile to run tests in an isolated environment.
+
+## Quick commands (local)
+Install dependencies:
+```bash
+npm install
+>>>>>>> c91d65f (Final files are added)
